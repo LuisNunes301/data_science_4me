@@ -19,4 +19,4 @@ Estudante de ciencia da computação, que está a caminho de se desenvolver no m
 
 ## Projetos:
 
-* **Meu prox projeto** : 
+* **Meu prox projeto** : https://bit.ly/3SyPlLB
