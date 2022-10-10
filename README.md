@@ -18,4 +18,4 @@ Estudante de ciencia da computação, que está a caminho de se desenvolver no m
 
 ## Projetos:
 
-Analise dos atacantes brasileiros para copa de 2022: https://github.com/LuisNunes301/analys-player-brasil
+[Analise dos atacantes brasileiros para copa de 2022](https://github.com/LuisNunes301/analys-player-brasil) 
