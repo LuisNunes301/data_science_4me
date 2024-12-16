@@ -13,7 +13,7 @@ Estudante de ciencia da computação, que está a caminho de se desenvolver no m
 
 
 **Links:**
-* [[LinkedIn]([https://www.linkedin.com/in/luisnunes3](https://www.linkedin.com/in/luisnunes30/))](https://www.linkedin.com/in/luisnunes30/)
+* [Linkedin](https://www.linkedin.com/in/luisnunes30/)
 
 
 ## Projetos:
