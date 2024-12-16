@@ -13,7 +13,8 @@ Atualmente trabalho como estagiario de Egenhenaria de dados
 
 
 **Links:**
-* [Linkedin](https://www.linkedin.com/in/luisnunes30/)
+*![image](https://github.com/user-attachments/assets/41338399-c9a4-41bb-bdc3-f8d9d58801e8)[Linkedin](https://www.linkedin.com/in/luisnunes30/)![Uploading image.png…]()
+
 
 
 ## Projetos:
