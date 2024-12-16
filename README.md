@@ -6,10 +6,10 @@
 
 # LUIS NUNES
 
-Estudante de ciencia da computação, que está a caminho de se desenvolver no meio da area de Data Science. Cursando o 5 semestre da faculdade Uniruy ,Salvador ,Bahia.
-#### **Obs: Meu github ficará "poluido", porem como marca do meu progresso de estudos passados ,e/ou projetos da faculdade ,que neste momento não fazem muito sentido com o meu rumo daqui para frente.**
-#### Neste portifolio , conterá estudos em formas de artigos e projetos feitos por mim, ou uma replicação com intuito de estudo.
-**Background in:** Python,Data Science
+Estudante de ciencia da computação, que está a caminho de se desenvolver no meio da area de Data Science. Cursando o 8 semestre da faculdade Uniruy ,Salvador ,Bahia.
+Atualmente trabalho como estagiario de Egenhenaria de dados
+
+**Background in:** Python, Java, Docker,SQL,Data Science
 
 
 **Links:**
