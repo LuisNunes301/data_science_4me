@@ -13,9 +13,10 @@ Estudante de ciencia da computação, que está a caminho de se desenvolver no m
 
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/luisnunes3)
+* [LinkedIn]([https://www.linkedin.com/in/luisnunes3](https://www.linkedin.com/in/luisnunes30/))
 
 
 ## Projetos:
 
 [Analise dos atacantes brasileiros para copa de 2022](https://github.com/LuisNunes301/analys-player-brasil) 
+[Detecção de Fraudes em Cartões de Crédito](https://github.com/LuisNunes301/Credit-Card-Fraud-Detection)
