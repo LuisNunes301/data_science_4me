@@ -21,3 +21,4 @@ Atualmente trabalho como estagiario de Egenhenaria de dados
 
 - [Analise dos atacantes brasileiros para copa de 2022](https://github.com/LuisNunes301/analys-player-brasil)
 - [Detecção de Fraudes em Cartões de Crédito](https://github.com/LuisNunes301/Credit-Card-Fraud-Detection)
+- [SMS Classifier ](https://github.com/LuisNunes301/SMS-Spam-Classifier.git) 💻
