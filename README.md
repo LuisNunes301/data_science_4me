@@ -15,7 +15,8 @@ Atualmente trabalho como estagiario de Egenhenaria de dados
 **Links:**
 * [Linkedin](https://www.linkedin.com/in/luisnunes30/)
 
-
+## Studied
+- [Morden Pandas](https://github.com/LuisNunes301/morden-pandas-study.git)
 
 ## Projetos:
 
